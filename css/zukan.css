@@ -105,3 +105,13 @@
     height: 50px;
     width: 50px;
 }
+
+.zukan-archive {
+    position: absolute;
+    top: 550px;
+    left: 890px;
+    z-index: 2;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
