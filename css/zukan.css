@@ -115,3 +115,7 @@
     height: 50px;
     width: 50px;
 }
+
+.body {
+    background-image: url('honeycomb.jpg');
+}
