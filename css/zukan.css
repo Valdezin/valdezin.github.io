@@ -1,0 +1,107 @@
+.zukan_bg {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    z-index: 2;
+    height: 500px;
+    width: 500px;
+}
+
+.vldz {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    z-index: 2;
+    border-radius: 50%;
+    height: 390px;
+    width: 390px;
+}
+
+.zukan_title {
+    position: absolute;
+    text-align: right !important;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    right: 700px;
+    top: 100px;
+}
+
+.zukan_hr {
+    position: absolute;
+    border-top: 10px solid black;
+    width: 350px;
+    top: 220px;
+    left: 725px;
+}
+
+.headICC {
+    font-family: 'Segoe UI', sans-serif;
+    position: absolute;
+    text-align: right !important;
+    left: 725px;
+    top: 200px;
+    font-size: 17px;
+}
+
+.zukan_desc1 {
+    font-family: 'Segoe UI', sans-serif;
+    position: absolute;
+    text-align: right !important;
+    left: 725px;
+    top: 270px;
+    font-size: 20px;
+}
+
+.zukan_desc2 {
+    font-family: 'Segoe UI', sans-serif;
+    position: absolute;
+    left: 725px;
+    top: 330px;
+    font-size: 20px;
+}
+
+.zukan_desc3 {
+    font-family: 'Segoe UI', sans-serif;
+    position: absolute;
+    left: 725px;
+    top: 450px;
+    font-size: 20px;
+}
+
+.zukan_myaccTitle {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 750px;
+    font-size: 30px;
+    left: 625px;
+}
+
+.zukan-facebook {
+    position: absolute;
+    top: 550px;
+    left: 725px;
+    z-index: 2;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.zukan-replit {
+    position: absolute;
+    top: 550px;
+    left: 780px;
+    z-index: 2;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.zukan-github {
+    position: absolute;
+    top: 550px;
+    left: 835px;
+    z-index: 2;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
