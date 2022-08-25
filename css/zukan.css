@@ -116,6 +116,16 @@
     width: 50px;
 }
 
+.zukan-euorg {
+    position: absolute;
+    top: 535px;
+    left: 940px;
+    z-index: 2;
+    border-radius: 50%;
+    height:11%;
+    width: 9%;
+}
+
 .zukan-bg-image{
     background-image:url('/images/honeycomb_sa.jpg'); 
     width:98%;
